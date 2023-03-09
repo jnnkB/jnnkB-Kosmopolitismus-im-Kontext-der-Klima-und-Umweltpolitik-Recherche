@@ -34,7 +34,6 @@
     - Hat nichts mit uns zu tun
     - <=> EU
   - weniger Sourveränität
-    - 
   - Nicht alle könne gleichviel leisten und man könnte die falschen Erwischen
     - Man muss aufpassen, dass man die richtigen Ersicht: Reiche Länder und vorallem große TNUs
     - Die die viel erwirtschaften sind die die viel verschmutzen
@@ -45,6 +44,18 @@
 - [ ] remove all the f. and ff. and instead use pp. Start-End
 - [ ] remove page numbers if not necesarry
 - [ ] add alternative locators in the article on Cosmopolitanism for quotes (use headings!)
+- [ ] This term paper is divided into X section. After the introduction section, the …
+- [ ] It is (self) evident
+- [ ] subsequently
+- [ ] Staaten dürfen andere nicht runterfallen lassen, auch wenn sie damit durchkommen. Genauso andere Spezien.
+  
+  Geht auch um andere Umweltprobleme z.B. Nigerdelta
+  
+  Nicht alle Ländern können sich Deiche wie New York leisten
+  
+  Beispiel geben, warum wir diese Philosophie brauchen,
+  
+  aus eigenem Interesse?
 
 ---
 
@@ -378,7 +389,29 @@ Handeln zur Eindämmung des Klimawandels führen kann.
 
 **Verwendung:** Warum haben alle Staaten eine Verantwortung in der Klima und Nachhaltigkeitspolitik?
 
+> There is a need for a shift towards a new epistemological outlook in which humankind is viewed as part of a complex and systematic totality of nature.
+
 ### Die westliche anthroprozentrische Sicht auf die Natur
+
+---
+
+### neu
+
+Nature should not be seen as a means to an end
+
+Genau das machen … mit der Parental Earth Ethics.
+
+Metapher über die Familie: Unterschiedliche Erfolg der KInder trotz gemeinsamem Ursprung
+
+> Denn die „Parental Earth Ethics" sei mehr als eine Umweltethik: erst das Zusammenspiel zwischen Sozialtheorien und ökologischem Denken werde dem „komplexen Netz des Seins" gerecht.
+
+> We propose parental earth ethics as a basic ethics that would offer a motivation for both a global environmental concern and a global redistribution of the wealth of nations.
+> 
+> p. 128
+
+> ethics that is adequate to tame the present arrogance of humans by which they treat the rest of nature as a means to their ends.
+
+---
 
 - beruht auf der jüdisch-christliche Sicht der Natur und der Sichtweise der klassischen Philosophen aus dem Antiken Griechenland
 
@@ -467,7 +500,23 @@ Link: https://www.bu.edu/wcp/Papers/Afri/AfriGran.htm 
 
 ### Mit afrikanischer Philosophie denken
 
+- > es besteht die Notwendigkeit eines Wandels hin zu einer neuen 
+  > epistemologischen Haltung, die die Menschheit als Teil einer komplexen 
+  > und systematischen ganzheitlichen Natur begreift
 
+- Relationalität
+
+- > We propose parental earth ethics as a basic ethics that would offer a motivation for both a global environmental concern and a global redistribution of the wealth of nations.
+  > 
+  > p. 128
+
+### The Relevance of Odera Oruka’s Parental  Earth Ethics as an Eco-Philosophy
+
+- Die Ethik ist notwendig, um zu Begründen, warum wir die Welt nicht einfach ausbeuten dürfen. Als gegenspruch zur anthroprozentristischen Weltsicht des Westens. 
+
+- Nature should not be seen as a means to an end
+
+- > ethics that is adequate to tame the  present arrogance of humans by which they treat the rest of nature as a means to their ends.
 
 ## Der Weltklimavertrag Verantwortung der internationalen Gemeinschaft im Kampf gegen den Klimawandel (Bentz-Hölzl, 2014)
 
