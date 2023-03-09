@@ -8,20 +8,17 @@
 
 ## TODO
 
-- [ ] sollte ich den Titel zu Umwelt- und Nachhaltigkeitspolitik ändern?
-- [ ] include numbers from the IPCC/IPBES reports to show how important this topic really is
-  - alternatively: [Planetary boundaries - Stockholm Resilience Centre](https://www.stockholmresilience.org/research/planetary-boundaries.html)
+- [x] sollte ich den Titel zu Umwelt- und Nachhaltigkeitspolitik ändern?
 - [ ] Which reports states whether we reach the SDGs?
-- [ ] Read more on the different Protocals by the COPs
-- [ ] Klima als Teil der Nachhaltigketispolitik
-- [ ] Mehr als 50 Jahre nach der ersten umweltkonverenz 
+- [ ] Read more on the different Protocols by the COPs
 - [ ] Eventuell mit Global Governance beschäftigen
 - [ ] Cosmopolitanism for future
 - [ ] Does the norht-south gap has anything todo with the non use of cosmopolitan approaches
-- [ ] Why didn't they want to implement cosmopolitan approaches? => See establishment of the UN => States did not want to loose authority/souvernity
+- [ ] Should I elaborate on the implications for redistribution by the Parental Earth Ethics?
+- [x] Why didn't they want to implement cosmopolitan approaches? => See establishment of the UN => States did not want to loose authority/souvernity => I did not find any
 - [ ] Meine Absätze korrektur lesen mit den Quellen und falsche korrigieren sowie verweise einfügen
+- [ ] Check HTML comments
 - [ ] Sollte ich Zitate rausschmeißen und paraphrasieren
-- [ ] Einleitung: Was zu Kritik? Problematisiere ich die Klima und Umweltpolitik?
 - [ ] Kosmopolitischer Ansatz nötig, da es wirtschafltich Anreize gibt umweltmaßnahmen zu redzuzieren, da es korzfrsitgi besser ist. Nur wenn Umweltpolitik kosmopolitisch betreibt, können Nationalstaaten nciht von TNU ausgepsielt werden.
 - [ ] Es fällt das Arugment: die anderen mach ja auch nichts weg
 - [ ] Ökozidgesetz dreht sich nur um Verschmutzung? Oder auch Klimawandel
@@ -47,6 +44,7 @@
 - [ ] This term paper is divided into X section. After the introduction section, the …
 - [ ] It is (self) evident
 - [ ] subsequently
+- [ ] mitigate
 - [ ] Staaten dürfen andere nicht runterfallen lassen, auch wenn sie damit durchkommen. Genauso andere Spezien.
   
   Geht auch um andere Umweltprobleme z.B. Nigerdelta
@@ -56,10 +54,28 @@
   Beispiel geben, warum wir diese Philosophie brauchen,
   
   aus eigenem Interesse?
+- [ ] Brauche ich noch Referenzen in der Analyse ob internationale Klima und Umweltdiplomatie kosxmopolitisch ist oder reicht es weil ich sie oben habe?
+- [ ] Der Weltklimavertrag Verantwortung der internationalen Gemeinschaft im Kampf gegen den Klimawandel (Bentz-Hölzl, 2014)
+- [ ] Ökozid
 
 ---
 
+## Introduction
+
+- include numbers from the IPCC/IPBES reports to show how important this topic really is
+  - alternatively: [Planetary boundaries - Stockholm Resilience Centre](https://www.stockholmresilience.org/research/planetary-boundaries.html)
+- Mehr als 50 Jahre nach der ersten umweltkonverenz
+- Was zu Kritik? Problematisiere ich die Klima und Umweltpolitik?
+
 ## UN Global Issues
+
+Climate Change
+
+- very important
+  
+  > Climate change is one of the major challenges of our time. From shifting weather patterns that threaten food production, to rising sea levels that increase the risk of catastrophic flooding, the impacts of climate change are global in scope and unprecedented in scale.
+
+## Safe Text on Cosmopolitanism in German
 
 Laut der Stanford Encyclopedia of Philosophy ist Kosmopolitismus ein Oberbegriff, der viele Weltanschauungen und Philosophien umfasst [siehe @sep-cosmopolitanism]. Der Kerngedanke bleibt jedoch derselbe: "Alle Menschen, unabhängig von ihrer politischen Zugehörigkeit, sind (oder können und sollten) Bürger einer einzigen Gemeinschaft sein" [@sep-cosmopolitanism]. Allerdings gibt es unterschiedliche Vorstellungen darüber, wie diese Gemeinschaft funktioniert.
 
@@ -72,12 +88,6 @@ Der stoische Kosmopolitismus beeinflusste das frühe Christentum, so dass die De
 Während der Aufklärung war der Kosmopolitismus wieder auf dem Vormarsch, bedingt durch den Aufstieg des Kapitalismus und des Welthandels sowie durch eine philosophische Hinwendung zur menschlichen Vernunft und zur hellenischen Philosophie. Während der Aufklärung "betrachteten viele Intellektuelle dieser Zeit ihre Zugehörigkeit zur transnationalen 'Republik der Buchstaben' als bedeutender als ihre Zugehörigkeit zu den jeweiligen politischen Staaten, in denen sie sich befanden", was sich durch das schwierige Verhältnis zu ihrer Regierung aufgrund der starken Zensur zu dieser Zeit erklären lässt.**Link:** https://www.un.org/en/global-issues
 
 **Verwendung:** Einführung in die Fragestellung: Motivation
-
-- Climate Change
-  
-  - very important
-    
-    > Climate change is one of the major challenges of our time. From shifting weather patterns that threaten food production, to rising sea levels that increase the risk of catastrophic flooding, the impacts of climate change are global in scope and unprecedented in scale.
 
 ## Cosmopolitanism – Encyclopedia of Philosophy [Kleingeld & Brown (2019)]
 
