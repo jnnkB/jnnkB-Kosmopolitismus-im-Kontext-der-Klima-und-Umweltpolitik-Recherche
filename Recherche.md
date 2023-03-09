@@ -9,24 +9,42 @@
 ## TODO
 
 - [x] sollte ich den Titel zu Umwelt- und Nachhaltigkeitspolitik ändern?
+
 - [ ] Which reports states whether we reach the SDGs?
+
 - [ ] Read more on the different Protocols by the COPs
+
 - [ ] Eventuell mit Global Governance beschäftigen
+
 - [ ] Cosmopolitanism for future
+
 - [ ] Does the norht-south gap has anything todo with the non use of cosmopolitan approaches
+
 - [ ] Should I elaborate on the implications for redistribution by the Parental Earth Ethics?
+
 - [x] Why didn't they want to implement cosmopolitan approaches? => See establishment of the UN => States did not want to loose authority/souvernity => I did not find any
+
 - [ ] Meine Absätze korrektur lesen mit den Quellen und falsche korrigieren sowie verweise einfügen
+
 - [ ] Check HTML comments
+
 - [ ] Sollte ich Zitate rausschmeißen und paraphrasieren
+
 - [ ] Kosmopolitischer Ansatz nötig, da es wirtschafltich Anreize gibt umweltmaßnahmen zu redzuzieren, da es korzfrsitgi besser ist. Nur wenn Umweltpolitik kosmopolitisch betreibt, können Nationalstaaten nciht von TNU ausgepsielt werden.
+
 - [ ] Es fällt das Arugment: die anderen mach ja auch nichts weg
+
 - [ ] Ökozidgesetz dreht sich nur um Verschmutzung? Oder auch Klimawandel
+
 - [ ] Klimaklagen beim Internationalen Gerichtshof
+
 - [ ] In eine globalen Welt ist auch eine globale Klimapolitik möglich und nötig
+  
   - Wir haben mit der Industrialisierung und der Globalisierung das Problem erschaffen und damit 
   - Globale Strukturen Nutzen: Wenn es einen globalen Markt gibt muss man sie auch global regeln
+
 - [ ] Gegenargument
+  
   - Entfernt von Bürger
     - Hat nichts mit uns zu tun
     - <=> EU
@@ -35,16 +53,27 @@
     - Man muss aufpassen, dass man die richtigen Ersicht: Reiche Länder und vorallem große TNUs
     - Die die viel erwirtschaften sind die die viel verschmutzen
     - tendenziell erwischt man die richtigen
+
 - [ ] Zeitformen in der Hausarbeit prüfen und korrigieren!
+
 - [ ] Check that in the References I reference the correct version of Parental Earth Ethics with the correct page numbers
+
 - [ ] Citing indirect sources (“as cited in”)
+
 - [ ] remove all the f. and ff. and instead use pp. Start-End
+
 - [ ] remove page numbers if not necesarry
+
 - [ ] add alternative locators in the article on Cosmopolitanism for quotes (use headings!)
+
 - [ ] This term paper is divided into X section. After the introduction section, the …
+
 - [ ] It is (self) evident
+
 - [ ] subsequently
+
 - [ ] mitigate
+
 - [ ] Staaten dürfen andere nicht runterfallen lassen, auch wenn sie damit durchkommen. Genauso andere Spezien.
   
   Geht auch um andere Umweltprobleme z.B. Nigerdelta
@@ -54,8 +83,11 @@
   Beispiel geben, warum wir diese Philosophie brauchen,
   
   aus eigenem Interesse?
+
 - [ ] Brauche ich noch Referenzen in der Analyse ob internationale Klima und Umweltdiplomatie kosxmopolitisch ist oder reicht es weil ich sie oben habe?
+
 - [ ] Der Weltklimavertrag Verantwortung der internationalen Gemeinschaft im Kampf gegen den Klimawandel (Bentz-Hölzl, 2014)
+
 - [ ] Ökozid
 
 ---
@@ -420,6 +452,8 @@ Metapher über die Familie: Unterschiedliche Erfolg der KInder trotz gemeinsamem
 > p. 128
 
 > ethics that is adequate to tame the present arrogance of humans by which they treat the rest of nature as a means to their ends.
+
+
 
 ---
 
