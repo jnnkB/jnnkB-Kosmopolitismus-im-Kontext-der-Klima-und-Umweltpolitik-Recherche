@@ -6,112 +6,11 @@
 
 ---
 
-## TODO
-
-- [x] sollte ich den Titel zu Umwelt- und Nachhaltigkeitspolitik ändern?
-
-- [ ] Which reports states whether we reach the SDGs?
-
-- [ ] Read more on the different Protocols by the COPs
-
-- [ ] Eventuell mit Global Governance beschäftigen
-
-- [ ] Cosmopolitanism for future
-
-- [ ] Does the norht-south gap has anything todo with the non use of cosmopolitan approaches
-
-- [ ] Should I elaborate on the implications for redistribution by the Parental Earth Ethics?
-
-- [x] Why didn't they want to implement cosmopolitan approaches? => See establishment of the UN => States did not want to loose authority/souvernity => I did not find any
-
-- [ ] Meine Absätze korrektur lesen mit den Quellen und falsche korrigieren sowie verweise einfügen
-
-- [ ] Check HTML comments
-
-- [ ] Sollte ich Zitate rausschmeißen und paraphrasieren
-
-- [ ] Kosmopolitischer Ansatz nötig, da es wirtschafltich Anreize gibt umweltmaßnahmen zu redzuzieren, da es korzfrsitgi besser ist. Nur wenn Umweltpolitik kosmopolitisch betreibt, können Nationalstaaten nciht von TNU ausgepsielt werden.
-
-- [ ] Es fällt das Arugment: die anderen mach ja auch nichts weg
-
-- [ ] Ökozidgesetz dreht sich nur um Verschmutzung? Oder auch Klimawandel
-
-- [ ] Klimaklagen beim Internationalen Gerichtshof
-
-- [ ] In eine globalen Welt ist auch eine globale Klimapolitik möglich und nötig
-  
-  - Wir haben mit der Industrialisierung und der Globalisierung das Problem erschaffen und damit 
-  - Globale Strukturen Nutzen: Wenn es einen globalen Markt gibt muss man sie auch global regeln
-
-- [ ] Gegenargument
-  
-  - Entfernt von Bürger
-    - Hat nichts mit uns zu tun
-    - <=> EU
-  - weniger Sourveränität
-  - Nicht alle könne gleichviel leisten und man könnte die falschen Erwischen
-    - Man muss aufpassen, dass man die richtigen Ersicht: Reiche Länder und vorallem große TNUs
-    - Die die viel erwirtschaften sind die die viel verschmutzen
-    - tendenziell erwischt man die richtigen
-
-- [ ] Zeitformen in der Hausarbeit prüfen und korrigieren!
-
-- [ ] Check that in the References I reference the correct version of Parental Earth Ethics with the correct page numbers
-
-- [ ] Citing indirect sources (“as cited in”)
-
-- [ ] remove all the f. and ff. and instead use pp. Start-End
-
-- [ ] remove page numbers if not necesarry
-
-- [ ] add alternative locators in the article on Cosmopolitanism for quotes (use headings!)
-
-- [ ] This term paper is divided into X section. After the introduction section, the …
-
-- [ ] It is (self) evident
-
-- [ ] subsequently
-
-- [ ] mitigate
-
-- [ ] Staaten dürfen andere nicht runterfallen lassen, auch wenn sie damit durchkommen. Genauso andere Spezien.
-  
-  Geht auch um andere Umweltprobleme z.B. Nigerdelta
-  
-  Nicht alle Ländern können sich Deiche wie New York leisten
-  
-  Beispiel geben, warum wir diese Philosophie brauchen,
-  
-  aus eigenem Interesse?
-
-- [ ] Brauche ich noch Referenzen in der Analyse ob internationale Klima und Umweltdiplomatie kosxmopolitisch ist oder reicht es weil ich sie oben habe?
-
-- [ ] Der Weltklimavertrag Verantwortung der internationalen Gemeinschaft im Kampf gegen den Klimawandel (Bentz-Hölzl, 2014)
-
-- [ ] Ökozid
-
-- [ ] genderly
-
-- [ ] Link references?
-
-- [ ] Use original sources instead of the sources I read, if possible even for indirect citation 
-
-- [ ] read how to talk about climate change monday lecture
-
-- [ ] apparent
-
-- [ ] inadequate
-
----
-
-## Introduction
-
-- include numbers from the IPCC/IPBES reports to show how important this topic really is
-  - alternatively: [Planetary boundaries - Stockholm Resilience Centre](https://www.stockholmresilience.org/research/planetary-boundaries.html)
-- Mehr als 50 Jahre nach der ersten umweltkonverenz
-- Was zu Kritik? Problematisiere ich die Klima und Umweltpolitik?
-
 ## UN Global Issues
+
+**Link:** [Global Issues | United Nations](https://www.un.org/en/global-issues)
+
+**Verwendung:** Einführung in die Fragestellung: Motivation
 
 Climate Change
 
@@ -119,19 +18,7 @@ Climate Change
   
   > Climate change is one of the major challenges of our time. From shifting weather patterns that threaten food production, to rising sea levels that increase the risk of catastrophic flooding, the impacts of climate change are global in scope and unprecedented in scale.
 
-## Safe Text on Cosmopolitanism in German
-
-Laut der Stanford Encyclopedia of Philosophy ist Kosmopolitismus ein Oberbegriff, der viele Weltanschauungen und Philosophien umfasst [siehe @sep-cosmopolitanism]. Der Kerngedanke bleibt jedoch derselbe: "Alle Menschen, unabhängig von ihrer politischen Zugehörigkeit, sind (oder können und sollten) Bürger einer einzigen Gemeinschaft sein" [@sep-cosmopolitanism]. Allerdings gibt es unterschiedliche Vorstellungen darüber, wie diese Gemeinschaft funktioniert.
-
-@sep-cosmopolitanism erklärt, dass die Entwicklung des Kosmopolitismus bereits in der griechischen Antike begann, auch wenn diese als überwiegend unkosmopolitisch angesehen werden kann. Aber es gab bereits reisende Intellektuelle, die dieses Unkosmopolitische, das von bedeutenden Philosophen wie Platon oder Aristoteles vertreten wurde, in Frage stellten: "Meine Herren Anwesenden ... ich betrachte euch alle als Verwandte, Vertraute und Mitbürger - von Natur aus und nicht durch Konvention; denn Gleiches ist von Natur aus mit Gleichem verwandt, während die Konvention, die ein Tyrann über die Menschen ist, viele Dinge erzwingt, die der Natur widersprechen." - *Protagoras* (337c7-d3).
-
-Ein wichtiger Schritt in der Entwicklung der kosmopolitischen Ideen waren die Stoiker. Obwohl die Stoiker zu verschiedenen Zeiten unterschiedliche Ansichten darüber hatten, wer als Bürger des Kosmos angesehen wird, war ihr Verständnis von Güte recht ähnlich: Bürger, die anderen helfen. Dies war nicht auf ihre Polis beschränkt, was eine wichtige Veränderung gegenüber früheren Ansichten von Platon oder Aristoteles darstellte, die die moralische Verpflichtung der Bürger auf ihre Polis konzentrierten. In den verschiedenen Bereichen des Stoizismus gab es unterschiedliche Auffassungen darüber, ob und inwieweit die Bürger Verpflichtungen gegenüber ihrem lokalen Staat oder ihrer Polis hatten.
-
-Der stoische Kosmopolitismus beeinflusste das frühe Christentum, so dass die Debatten in der politischen Philosophie nun "das Säkulare und das Religiöse und nicht das Lokale und das Kosmopolitische" gegenüberstellten. "ure und nicht durch Konvention; denn Gleiches ist von Natur aus mit Gleichem verwandt, während die Konvention, die ein Tyrann über die Menschen ist, viele Dinge erzwingt, die der Natur widersprechen." - *Protagoras* (337c7-d3)
-
-Während der Aufklärung war der Kosmopolitismus wieder auf dem Vormarsch, bedingt durch den Aufstieg des Kapitalismus und des Welthandels sowie durch eine philosophische Hinwendung zur menschlichen Vernunft und zur hellenischen Philosophie. Während der Aufklärung "betrachteten viele Intellektuelle dieser Zeit ihre Zugehörigkeit zur transnationalen 'Republik der Buchstaben' als bedeutender als ihre Zugehörigkeit zu den jeweiligen politischen Staaten, in denen sie sich befanden", was sich durch das schwierige Verhältnis zu ihrer Regierung aufgrund der starken Zensur zu dieser Zeit erklären lässt.**Link:** https://www.un.org/en/global-issues
-
-**Verwendung:** Einführung in die Fragestellung: Motivation
+# 
 
 ## Cosmopolitanism – Encyclopedia of Philosophy [Kleingeld & Brown (2019)]
 
@@ -139,17 +26,7 @@ Während der Aufklärung war der Kosmopolitismus wieder auf dem Vormarsch, bedin
 
 **Verwendung:** Einführung in den Kosmopolitismus
 
-Cosmopolitanism is an umbrella term comprising many world views and philosophies. But the core idea remains the same: "all human beings, regardless of their political affiliation, are (or can and should be) citizens in a single community". However there are different ideas on how this communities works.
 
-The development of cosmopolitanism already started in classical greek times, even though they can be considered as being mainly uncosmopolitan. But there already were travelling intellectuals that challenged this uncosmopolitan held by important philosophers like Plato or Aristotle: "Gentlemen present … I regard you all as kinsmen, familiars, and fellow-citizens – by nature and not by convention; for like is by nature akin to like, while convention, which is a tyrant over human beings, forces many things contrary to nature." – *Protagoras* (337c7–d3).
-
-An important step in the development of cosmopolitan ideas were the Stoics. While different stoics in different times had different perspectives on who is regarded as a citizen of the cosmos, there rational for goodness was quite similar: citizens that help others. This was not limited to their polis which was an important change from earlier views of Plato or Aristotle who saw moral obligation of citizens as focused on their polis. In the different areas of stoicism, there were different views on whether and to what extend citizens had obligations to their local state or polis.
-
-Stoic cosmopolitanism influence early Christanity and consequently debates in political philosophy would now oppose "the secular and the religious, and not the local and the cosmopolitan."
-
-Während der Aufklärung "betrachteten viele Intellektuelle dieser Zeit ihre Zugehörigkeit zur transnationalen 'Republik der Buchstaben' als bedeutender als ihre Zugehörigkeit zu den jeweiligen politischen Staaten, in denen sie sich befanden", was sich durch das schwierige Verhältnis zu ihrer Regierung aufgrund der starken Zensur zu dieser Zeit erklären lässt. Nachdem der Kosmopolitismus durch
-
-1789 wurde mit die Menschenrechtsdeklaration verabschiedet, welche aus einer kosmopolitischen Denkweise entstammen.
 
 - there are different views under this umbrella term
 
