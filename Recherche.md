@@ -90,6 +90,18 @@
 
 - [ ] Ökozid
 
+- [ ] genderly
+
+- [ ] Link references?
+
+- [ ] Use original sources instead of the sources I read, if possible even for indirect citation 
+
+- [ ] read how to talk about climate change monday lecture
+
+- [ ] apparent
+
+- [ ] inadequate
+
 ---
 
 ## Introduction
@@ -453,8 +465,6 @@ Metapher über die Familie: Unterschiedliche Erfolg der KInder trotz gemeinsamem
 
 > ethics that is adequate to tame the present arrogance of humans by which they treat the rest of nature as a means to their ends.
 
-
-
 ---
 
 - beruht auf der jüdisch-christliche Sicht der Natur und der Sichtweise der klassischen Philosophen aus dem Antiken Griechenland
@@ -593,3 +603,82 @@ Link: https://www.bu.edu/wcp/Papers/Afri/AfriGran.htm 
 **Link:** [Green Criminology and State-Corporate Crime: The Ecocide-Genocide Nexus with Examples from Nigeria: Journal of Genocide Research: Vol 23, No 2](https://www.tandfonline.com/doi/full/10.1080/14623528.2020.1771998)
 
 **Verwendung:** Beispiel eines Kosmopolitischen Ansatzes in der Klima und Nachhaltigkeitspolitik
+
+# Green Criminology and the Law
+
+- p. 388
+  
+  - Definition of ecocide: environmental destruction that damage ecosystems or species  
+  
+  - attempt to criminalize that
+  
+  - if conducted with agency => crime of international significance
+  
+  - > could ensure the state and corporate actors that engage or allow ecocidal harms to occur are found liable.
+  
+  - This chapter discusses a proposed possible Ecocide Act, as authored by UK lawyer Polly Higgins in 2010 to constitute the 5th International Crime Against Peace. There are however 
+
+- The current legal situation
+  
+  - > Intentionally launching an attack in the knowledge that such attack will cause incidental loss of life or injury to civilians or damage to civilian objects or widespread, long-term and severe damage to the natural environment which would be clearly excessive in relation to the concrete and direct overall military advantage ant
+    > 
+    > ~ Article 8 of the Rome Statute (UN General Assembly, 1998)
+    > 
+    > UN General Assembly, *Rome Statute of the International Criminal Court (last amended 2010)*,
+    >  17 July 1998, ISBN No. 92-9227-227-6, available at: 
+    > https://www.refworld.org/docid/3ae6b3a84.html [accessed 10 March 2023]
+  
+  - The Rome Statute is the only "international criminal law that can hold a person responsible for environmental destruction"
+  
+  - only during wartime
+  
+  - only if intentional
+    
+    - difficult to meet
+  
+  - <=> The term has its origins in the Vietnam war and the use of herbicides like Agent Orange (p. 389). This is the reason why we only have this limited liability in international law.
+  
+  - It however announced to especially prioritize cases related to environmental destruction. This includes proceeding crimes such as crimes against humanity espcially of they are related to that.  
+    
+    - p. 391
+    
+    - Vidal, J. & Bowcott, O. (2016). ICC widens remit to include environmental destruction cases. The Guardian. https://www.theguardian.com/global/2016/sep/15/hague-court-widens-remit-to-include-environmental-destruction-cases. Accessed 4 April 2018
+  
+  - important: it does not only include humans, also other species
+  
+  - two types of reasoning: ecocentric reasoning like seen in the Parental Earth Ethics which gives non human beings legal rights and a more anthroprocentric view that includes the environment as its the living environment of humans and need for the protection of human rights.  pp. 392-393
+  
+  - Ecocide effects "the poor, the marginalised, the disposessed and the vulnerable" while being caused by "the rich, the corporate, the elite and the powerful"
+
+- Ecocide Act
+  
+  - April 2010
+  
+  - Polly Higins
+  
+  - draft
+  
+  - submitted to the United Nations Law Comission
+  
+  - > The extensive loss or damage or destruction of ecosystem(s) of a given territory, whether by human agency or by other causes, to such an extent that: (1) peaceful enjoyment by the inhabitants of has been or will be severely diminished; and or (2) peaceful enjoyment by the inhabitants of another territory has been severely diminished. (Higgins, 2012, p. 159)
+  
+  - inhabitants again  includes all species
+  
+  - teritory means 
+    
+    - > ‘one or more of the following habitats, unrestricted by State or jurisdictional boundaries: (i) terrestrial, (ii) fresh-water, marine or high seas, (iii) atmosphere, (iv) other natural habitats
+  
+  - "A central aim of establishing the crime of Ecocide is to prevent  
+    war; loss and injury to life; dangerous industrial activity; pollution to  
+    all beings; and loss of traditional cultures, hunting grounds and food  
+    (Higgins, 2012)." (p.395)
+  
+  - "The Law of Ecocide would create an international and transboundary duty of care; one that imposes an obligation and preemptive legal duty of care upon all ‘persons of superior responsibility’ to prevent the risk of damage to or loss of any ecosystems."(p.395)
+  
+  - targets state, coporate, and a collusion of both p.396
+  
+  - Source for the law: [Polly Higgins Ecocide Crime &#8211; Ecocide Law](https://ecocidelaw.com/polly-higgins-ecocide-crime/)
+    
+    - The Model Law – proposed amendment to the Rome Statute (2010)
+    
+    - Polly Higgins, *Ecocide Crime*, Eradicating Ecocide
