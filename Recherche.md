@@ -18,15 +18,51 @@ Climate Change
   
   > Climate change is one of the major challenges of our time. From shifting weather patterns that threaten food production, to rising sea levels that increase the risk of catastrophic flooding, the impacts of climate change are global in scope and unprecedented in scale.
 
-# 
+# IPCC Report
+
+> Human activities are estimated to have caused approximately 1.0°C of global warming above pre-industrial levels, with a likely range of 0.8°C to 1.2°C. Global warming is likely to reach 1.5°C between 2030 and 2052 if it continues to increase at the current rate. (high confidence) (Figure SPM.1) {1.2}
+> 
+> p.4
+> 
+> A.1
+
+- already 1.0°C
+
+> Pathways limiting global warming to 1.5°C with no or limited overshoot would require rapid and far-reaching transitions in energy, land, urban and infrastructure (including transport and buildings), and industrial systems (high confidence). These systems transitions are unprecedented in terms of scale, but not necessarily in terms of speed, and imply deep emissions reductions in all sectors, a wide portfolio of mitigation options and a significant upscaling of investments in those options (medium confidence). {2.3, 2.4, 2.5, 4.2, 4.3, 4.4, 4.5}
+> 
+> p. 15
+> 
+> C.2
+
+- limiting to 1.5°C requires "rapid and far-reaching transitions in energy, land, urban and infrastructure (including transport and buildings), and industrial systems"
+  
+  - unprecedented in terms of scale
+
+> Estimates of the global emissions outcome of current nationally stated mitigation ambitions as submitted under the Paris Agreement would lead to global greenhouse gas emissions18 in 2030 of 52–58 GtCO2eq yr−1 (medium confidence). Pathways reflecting these ambitions would not limit global warming to 1.5°C, even if supplemented by very challenging increases in the scale and ambition of emissions reductions after 2030 (high confidence). Avoiding overshoot and reliance on future large-scale deployment of carbon dioxide removal (CDR) can only be achieved if global CO2 emissions start to decline well before 2030 (high confidence). {1.2, 2.3, 3.3, 3.4, 4.2, 4.4, Cross-Chapter Box 11 in Chapter 4}
+> 
+> p. 18
+> 
+> D.1
+
+- We have to already reduce global CO2 emissions before 2030 in order to reach the 1.5°C target if we want to avoid "overshoot and reliance on future large-scale deployment of carbon dioxide removal (CDR)"
+
+# IPBES Report
+
+[Summary for policymakers of the global assessment report on biodiversity and ecosystem services | Zenodo](https://zenodo.org/record/3553579)
+
+> Nature and its vital contributions to people, which together embody biodiversity and ecosystem functions and services, are deteriorating worldwide. p.10, A
+
+> Direct and indirect drivers of change have accelerated during the past 50 years. p.12, B
+
+> Goals for conserving and sustainably using nature and achieving sustainability cannot be met by current trajectories, and goals for 2030 and beyond may only be achieved through transformative changes4 across economic, social, political and technological factors. p.14, C
+
+In the past a rapid increase in factors that propel change.
 
 ## Cosmopolitanism – Encyclopedia of Philosophy [Kleingeld & Brown (2019)]
 
 **Link:** https://plato.stanford.edu/archives/win2019/entries/cosmopolitanism/
 
 **Verwendung:** Einführung in den Kosmopolitismus
-
-
 
 - there are different views under this umbrella term
 
@@ -525,7 +561,7 @@ Link: https://www.bu.edu/wcp/Papers/Afri/AfriGran.htm 
   
   - two types of reasoning: ecocentric reasoning like seen in the Parental Earth Ethics which gives non human beings legal rights and a more anthroprocentric view that includes the environment as its the living environment of humans and need for the protection of human rights.  pp. 392-393
   
-  - Ecocide effects "the poor, the marginalised, the disposessed and the vulnerable" while being caused by "the rich, the corporate, the elite and the powerful"
+  - Ecocide effects "the poor, the marginalised, the disposessed and the vulnerable" while "the rich, the corporate, the elite and the powerful" are potentially benefiting. Ecocide is often committed by corporations, states or a combination of both.
 
 - Ecocide Act
   
@@ -559,3 +595,33 @@ Link: https://www.bu.edu/wcp/Papers/Afri/AfriGran.htm 
     - The Model Law – proposed amendment to the Rome Statute (2010)
     
     - Polly Higgins, *Ecocide Crime*, Eradicating Ecocide
+
+
+
+# Possible Links for further investigation into niger delta and ecocide
+
+- [‘We were eating, drinking, breathing the oil’: the villagers who stood up to big oil – and won | Nigeria | The Guardian](https://www.theguardian.com/environment/ng-interactive/2022/jun/01/oil-pollution-spill-nigeria-shell-lawsuit)
+
+- ['This place used to be green': the brutal impact of oil in the Niger Delta | Global development | The Guardian](https://www.theguardian.com/global-development/2019/dec/06/this-place-used-to-be-green-the-brutal-impact-of-oil-in-the-niger-delta)
+
+- [How an ecocide law could prevent another Nigerian oil disaster | Robert Holtum for OurWorld 2.0, part of the Guardian Environment Network | The Guardian](https://www.theguardian.com/environment/2011/aug/22/ecocide-law-nigerian-oil-disaster)
+
+- [How a Global Ecocide Law Could Hold Polluters to Account | Time](https://time.com/5940759/ecocide-law-environment-destruction-icc/)
+
+- [Protecting the planet: a proposal for a law of ecocide | SpringerLink](https://link.springer.com/article/10.1007/s10611-013-9413-6)
+
+- https://www.cas-press.com/article_95591_569ae7f136a0931c092da465b73a5c3e.pdf, [Environmental pollution and associated health hazards to host communities (Case study: Niger delta region of Nigeria)](https://www.cas-press.com/article_95591.html), https://www.researchgate.net/profile/Cajesti-Cas-Press/publication/343500557_Environmental_pollution_and_associated_health_hazards_to_host_communities_Case_study_Niger_delta_region_of_Nigeria/links/5f2d0bb3299bf13404ab6028/Environmental-pollution-and-associated-health-hazards-to-host-communities-Case-study-Niger-delta-region-of-Nigeria.pdf
+
+- [Ecocide | 29 | Violence against the planet | Rob White, Olivia Hasler](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315270265-29/ecocide-rob-white-olivia-hasler?context=ubx)
+
+- [Environmental Protection in the Nigerian Oil and Gas Industry and <i>Jonah Gbemre</i> v. <i>Shell PDC Nigeria Limited</i>: Let the Plunder Continue? | African Journal of International and Comparative Law](https://www.euppublishing.com/doi/10.3366/ajicl.2019.0270)
+  
+  - <mark>This might be good</mark>
+
+- Contains a reference to Peter Emorinken-Donatus: https://www.tandfonline.com/doi/epdf/10.1080/14623528.2020.1771998?needAccess=true&role=button
+
+- [Ecocide in the Niger Delta | Climate &amp; Capitalism](https://climateandcapitalism.com/2016/09/24/ecocide-in-the-niger-delta/)
+  
+  - by Peter Emorinken-Donatus
+
+- [Oil exploitation and its socioeconomic effects on the Niger Delta region of Nigeria | SpringerLink](https://link.springer.com/article/10.1007/s11356-016-6864-1)
